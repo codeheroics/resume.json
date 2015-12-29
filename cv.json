@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Hugo Agbonon",
+    "label": "Développeur Web Full Stack (JS) Freelance",
+    "company": "Code Heroics",
+    "picture": "http://agbonon.fr/img/Hugo_Agbonon.jpg",
+    "email": "hugo@codeheroics.com",
+    "website": "http://www.codeheroics.com",
+    "summary": "Développeur web freelance, je suis spécialisé JavaScript, et peux intervenir sur des projets en full-stack (à la fois front-end et back-end)",
+    "location": {
+      "address": "Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "codeheroics",
+      "url": "http://twitter.com/codeheroics"
+    },{
+      "network": "Github",
+      "username": "codeheroics",
+      "url": "http://github.com/codeheroics"
+    }]
+  },
+  "work": [{
+    "company": "Agilience",
+    "position": "Front-end JS developer",
+    "website": "http://www.agilience.com",
+    "startDate": "2015-09-22",
+    "endDate": "2015-12-24",
+    "summary": "Développement d'Agilience.com et autres produits entreprise",
+    "highlights": [
+      "Développement d'une webapp de social analytics",
+      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+    ]
+  },{
+    "company": "Le Monde",
+    "position": "Full-stack JavaScript Developer",
+    "website": "http://www.lemonde.fr",
+    "startDate": "2014-06-16",
+    "endDate": "2015-07-10",
+    "summary": "AngularJS + node.js = MyJob.js",
+    "highlights": [
+      "Développement du \"Huit\", CMS pour journalistes, au sein d'une équipe de 10 personnes",
+      "Front-end, Back-end JS"
+    ]
+  },{
+    "company": "e-TF1",
+    "position": "Lead Developer MyTF1 Web",
+    "website": "http://www.tf1.fr",
+    "startDate": "2013-07-01",
+    "endDate": "2014-05-16",
+    "highlights": [
+      "Lead technique du projet MyTF1 Connect : Application 2nd écran pour TF1",
+      "Débuté le développement du projet WISDOM, gestion de publicité sur la TV en replay"
+    ]
+  },{
+    "company": "e-TF1",
+    "position": "Développeur Web PHP / node.js",
+    "website": "http://www.tf1.fr",
+    "startDate": "2012-01-23",
+    "endDate": "2013-06-30",
+    "highlights": [
+      "Développement d'améliorations de TF1.fr",
+      "Développement de MyTF1 Tweet-Replay puis MyTF1 Connect, le live enrichi multi-écrans de TF1."
+    ]
+  },{
+    "company": "SFR",
+    "position": "Développeur Web PHP",
+    "website": "http://www.sfr.fr",
+    "startDate": "2010-10-13",
+    "endDate": "2012-01-20",
+    "highlights": [
+      "Développement d'un système d'archivage et de consultation détaillée de logs pour une application en produisant plusieurs millions de lignes par heure.",
+      "Développement de l'interface web de consultation de ces logs (graphiques...)",
+      "Intégration de nouvelles fonctionnalités dans l'application de diagnostic de lignes SFR (avec un framework PHP spécifique)"
+    ]
+  },{
+    "company": "Alcatel-Lucent Bell Labs France",
+    "position": "Développeur Web PHP (Stagiaire)",
+    "website": "http://www.alcatel-lucent.com",
+    "startDate": "2009-12-01",
+    "endDate": "2012-06-30",
+    "highlights": [
+      "Développement d'une plate-forme de partage vidéo (semblable à YouTube mais au niveau d’une entreprise, développée en PHP/MySQL)",
+      "Mise en place d’une machine virtuelle (VirtualBox) comme environnement de développement principal.",
+      "Gestion de la fusion avec un autre service de partage vidéo."
+    ]
+  },{
+    "company": "Hôpital Roger Salengro - CHRU de Lille",
+    "position": "Assistant ingénieur (stagiaire)",
+    "website": "http://www.sfr.fr",
+    "startDate": "2008-09-01",
+    "endDate": "2009-01-30",
+    "highlights": [
+      "Travail en tant qu’assistant ingénieur affecté au service de neuroradiologie.",
+      "Refonte du système de gestion de compte-rendus standardisés de l’hôpital (PHP/MySQL + Google Web Toolkit) et assistance aux utilisateurs"
+    ]
+  },{
+    "company": "Centre des Arts et de la Culture de Pointe-à-Pitre",
+    "position": "Développeur Web PHP (stagiaire)",
+    "startDate": "2008-02-15",
+    "endDate": "2008-04-15",
+    "highlights": [
+      "Travail sur le site web du Centre des Arts et de la Culture de Pointe-à-Pitre (PHP/MySQL)"
+    ]
+  }],
+  "education": [{
+    "institution": "Télécom Lille",
+    "area": "Réseaux et Télécommunications",
+    "studyType": "Ingénieur",
+    "startDate": "2005-09-01",
+    "endDate": "2010-06-30",
+    "courses": [
+      "ILR - Ingénierie des Logiciels Réseaux",
+      "IIM - Ingénierie et Informatique pour le Multimédia"
+    ]
+  }],
+  "skills": [{
+    "name": "HTML5"
+  },{
+    "name": "CSS3"
+  },{
+    "name": "JavaScript",
+    "keywords": [
+      "Vanilla",
+      "ES2015+",
+      "AngularJS",
+      "EmberJS",
+      "React",
+      "Redux",
+      "node.js"
+    ]
+  },{
+    "name": "PHP"
+  },{
+    "name": "Bases de données",
+    "keywords": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ]
+  },{
+    "name": "Outils",
+    "keywords": [
+      "Git",
+      "NPM",
+      "JSPM",
+      "Babel",
+      "Gulp",
+      "Grunt"
+    ]
+  }],
+  "languages": [{
+    "language": "French",
+    "fluency": "Langue maternelle"
+  },{
+    "language": "English",
+    "fluency": "Courant (TOEIC: 970/990)"
+  }],
+  "interests": [{
+    "name": "Développement web",
+    "keywords": [
+      "http://www.codeheroics.com",
+      "https://www.nope.wtf - HTML5 social game",
+      "Meetups (speaker @ParisJS)",
+      "Hackathons"
+    ]
+  },{
+    "name": "Lecture",
+    "keywords": [
+      "BD (mangas, comics, franco-belge)",
+      "Romans (fantasy, sci-fi…)"
+    ]
+  },{
+    "name": "Joueur",
+    "keywords": [
+      "Jeux vidéo",
+      "Jeux de société",
+      "Jeux de rôle"
+    ]
+  }]
+
+}
