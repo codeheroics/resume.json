@@ -48,6 +48,7 @@ if (window.location.toString().indexOf('anon') !== -1) {
   document.querySelector('h1').innerHTML = document.querySelector('h1').innerHTML.replace('Hugo Agbonon', 'H. A.');
   a = document.querySelectorAll('.contact-item');
   for (i = 0; i < a.length; i++) a[i].remove();
+  document.querySelector('#photo img').style.display = 'none';
 }
 </script>`;
 
