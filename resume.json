@@ -3,7 +3,7 @@
     "name": "Hugo Agbonon",
     "label": "Freelance Full Stack Web (JS) Developer",
     "company": "Code Heroics",
-    "picture": "http://agbonon.fr/img/Hugo_Agbonon.jpg",
+    "picture": "http://codeheroics.com/img/Hugo_Agbonon.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com",
     "summary": "I'm a freelance web developer specialized in JavaScript full-stack (both front-end and back-end) development.",
@@ -22,6 +22,24 @@
     }]
   },
   "work": [{
+    "company": "Vente-Privée",
+    "position": "Front-end JS developer",
+    "website": "http://www.vente-privee.com",
+    "startDate": "2016-02-09",
+    "summary": "vente-privee.com overhaul",
+    "highlights": [
+      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+    ]
+  },{
+    "company": "Botemo",
+    "position": "React Native Developer",
+    "startDate": "2016-01-04",
+    "endDate": "2016-01-15",
+    "summary": "Creation of an application prototype",
+    "highlights": [
+      "React Native"
+    ]
+  },{
     "company": "Agilience",
     "position": "Front-end JS developer",
     "website": "http://www.agilience.com",
@@ -122,7 +140,7 @@
       "ES2015+",
       "AngularJS",
       "EmberJS",
-      "React",
+      "React (Native)",
       "Redux",
       "node.js"
     ]
