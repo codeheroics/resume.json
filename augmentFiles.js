@@ -12,7 +12,7 @@ const translations = {
   'Education': 'Formation',
   'Skills': 'Compétences',
   'Languages': 'Langues',
-  'Hobbies': 'Intérêts',
+  'Interests': 'Centres d\'intérêts',
   '<div>Courses</div>': '',
   'January': 'Janvier',
   'February': 'Février',
