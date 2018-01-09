@@ -6,7 +6,7 @@
     "picture": "http://codeheroics.com/img/Hugo_Agbonon.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com",
-    "summary": "Développeur web freelance, je suis spécialisé JavaScript, et peux intervenir sur des projets en full-stack (à la fois front-end et back-end)",
+    "summary": "Développeur web freelance, spécialisé JS, j'interviens en expertise front-end, possiblement en full-stack.",
     "location": {
       "address": "Paris",
       "countryCode": "FR"
@@ -22,10 +22,23 @@
     }]
   },
   "work": [{
+    "company": "Voyages-SNCF.com / Oui Technologies",
+    "position": "Lead Front-end JS developer",
+    "website": "https://oui.sncf",
+    "startDate": "2016-06-13",
+    "summary": "Développement du portail d'accès au Wifi dans les TGV",
+    "highlights": [
+      "Développement front du portail TGVConnect jusqu'à sa première mise en production",
+      "Suivi des évolutions du projet",
+      "Refonte et rebranding du portail devenu Wifi.sncf",
+      "Front-end JS (React, ES2015+, Redux, Babel, Webpack, Jest, Storybook...)"
+    ]
+  },{
     "company": "Vente-Privée",
     "position": "Front-end JS developer",
     "website": "http://www.vente-privee.com",
     "startDate": "2016-02-09",
+    "endDate": "2016-06-10",
     "summary": "Refonte de vente-privee.com",
     "highlights": [
       "Développement d'une nouvelle version de vente-privee.com",
@@ -143,10 +156,10 @@
     "keywords": [
       "Vanilla",
       "ES2015+",
-      "AngularJS",
-      "EmberJS",
       "React (Native)",
       "Redux",
+      "AngularJS",
+      "EmberJS",
       "node.js"
     ]
   },{
@@ -163,10 +176,8 @@
     "keywords": [
       "Git",
       "NPM",
-      "JSPM",
-      "Babel",
-      "Gulp",
-      "Grunt"
+      "Yarn",
+      "Babel"
     ]
   }],
   "languages": [{
@@ -180,9 +191,9 @@
     "name": "Développement web",
     "keywords": [
       "http://www.codeheroics.com",
+      "Karakuri - App de Karaoke",
       "https://www.nope.wtf - HTML5 social game",
-      "Meetups (speaker @ParisJS)",
-      "Hackathons"
+      "Speaker @ ParisJS, TakeOff Conf"
     ]
   },{
     "name": "Lecture",

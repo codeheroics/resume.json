@@ -22,11 +22,21 @@
     }]
   },
   "work": [{
+    "company": "Voyages-SNCF.com / Oui Technologies",
+    "position": "Lead Front-end JS developer",
+    "website": "https://oui.sncf",
+    "startDate": "2016-06-13",
+    "summary": "TGV trains internal Wifi portal developement",
+    "highlights": [
+      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+    ]
+  },{
     "company": "Vente-Privée",
     "position": "Front-end JS developer",
     "website": "http://www.vente-privee.com",
     "startDate": "2016-02-09",
-    "summary": "vente-privee.com overhaul",
+    "endDate": "2016-06-10",
+    "summary": "vente-privee.com main website overhaul",
     "highlights": [
       "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
     ]
@@ -138,10 +148,10 @@
     "keywords": [
       "Vanilla",
       "ES2015+",
-      "AngularJS",
-      "EmberJS",
       "React (Native)",
       "Redux",
+      "AngularJS",
+      "EmberJS",
       "node.js"
     ]
   },{
@@ -175,9 +185,9 @@
     "name": "Web Development",
     "keywords": [
       "http://www.codeheroics.com",
+      "Karakuri - Karaoke app",
       "https://www.nope.wtf - HTML5 social game",
-      "Meetups (speaker @ParisJS)",
-      "Hackathons"
+      "Speaker @ ParisJS, TakeOff Conf"
     ]
   },{
     "name": "Avid reader",
