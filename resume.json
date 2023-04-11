@@ -11,197 +11,263 @@
       "address": "Paris",
       "countryCode": "FR"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "codeheroics",
-      "url": "http://twitter.com/codeheroics"
-    },{
-      "network": "Github",
-      "username": "codeheroics",
-      "url": "http://github.com/hugo-codeheroics"
-    }]
-  },
-  "work": [{
-    "company": "Voyages-SNCF.com / Oui Technologies",
-    "position": "Lead Front-end JS developer",
-    "website": "https://oui.sncf",
-    "startDate": "2016-06-13",
-    "summary": "TGV trains internal Wifi portal developement",
-    "highlights": [
-      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
-    ]
-  },{
-    "company": "Vente-Privée",
-    "position": "Front-end JS developer",
-    "website": "http://www.vente-privee.com",
-    "startDate": "2016-02-09",
-    "endDate": "2016-06-10",
-    "summary": "vente-privee.com main website overhaul",
-    "highlights": [
-      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
-    ]
-  },{
-    "company": "Botemo",
-    "position": "React Native Developer",
-    "startDate": "2016-01-04",
-    "endDate": "2016-01-15",
-    "summary": "Creation of an application prototype",
-    "highlights": [
-      "React Native"
-    ]
-  },{
-    "company": "Agilience",
-    "position": "Front-end JS developer",
-    "website": "http://www.agilience.com",
-    "startDate": "2015-09-22",
-    "endDate": "2015-12-24",
-    "summary": "Work on Agilience.com and B2B products",
-    "highlights": [
-      "Development of a social analytics webapp",
-      "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
-    ]
-  },{
-    "company": "Le Monde",
-    "position": "Full-stack JavaScript Developer",
-    "website": "http://www.lemonde.fr",
-    "startDate": "2014-06-16",
-    "endDate": "2015-07-10",
-    "summary": "AngularJS + node.js = MyJob.js",
-    "highlights": [
-      "Developed \"Le Huit\", a high quality CMS for journalists, part of a team of 10",
-      "Front-end, Back-end JS"
-    ]
-  },{
-    "company": "e-TF1",
-    "position": "Lead Developer MyTF1 Web",
-    "website": "http://www.tf1.fr",
-    "startDate": "2013-07-01",
-    "endDate": "2014-05-16",
-    "highlights": [
-      "Technical lead of the MyTF1 Connect Project: Management of data for the companion app to live TV",
-      "Started the development of the WISDOM project, for ads management in replay TV"
-    ]
-  },{
-    "company": "e-TF1",
-    "position": "PHP / node.js Web developer",
-    "website": "http://www.tf1.fr",
-    "startDate": "2012-01-23",
-    "endDate": "2013-06-30",
-    "highlights": [
-      "Work on TF1.fr (website of the first french television)",
-      "Work on the project \"Tweet-Replay\" and its successor, MyTF1 Connect"
-    ]
-  },{
-    "company": "SFR",
-    "position": "PHP Web Developer",
-    "website": "http://www.sfr.fr",
-    "startDate": "2010-10-13",
-    "endDate": "2012-01-20",
-    "highlights": [
-      "Development of an system to archive and analyze detailed logs for an application which created millions of log lines per hour.",
-      "Development of the web interface to consult those logs (graphics...)",
-      "Integration of new features for SFR's phone lines analysis application (which used a company-specific PHP framework)"
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "codeheroics",
+        "url": "http://twitter.com/codeheroics"
+      },
+      {
+        "network": "Github",
+        "username": "codeheroics",
+        "url": "http://github.com/hugo-codeheroics"
+      }
     ]
   },
-  {
-    "company": "Alcatel-Lucent Bell Labs France",
-    "position": "PHP Web Developer (Internship)",
-    "website": "http://www.alcatel-lucent.com",
-    "startDate": "2009-12-01",
-    "endDate": "2012-06-30",
-    "highlights": [
-      "Development of a video-sharing website (like YouTube, but with different objectives specific to the company), developed with PHP/MySQL (Zend Framework)",
-      "Preparation of a virtual machine (VirtualBox) as main work environment for the developers of the project.",
-      "Participation to the fusion with another video-sharing website which was developed in another department of the company."
-    ]
-  },{
-    "company": "Roger Salengro Hospital - Lille",
-    "position": "Technical Staff (Internship)",
-    "website": "http://www.sfr.fr",
-    "startDate": "2008-09-01",
-    "endDate": "2009-01-30",
-    "highlights": [
-      "Developed a system to manage standardized reports created by doctors to centralize their data and allow its printed output.",
-      "Technical support for the employees of the hospital"
-    ]
-  },{
-    "company": "Centre des Arts et de la Culture de Pointe-à-Pitre",
-    "position": "PHP Web developer (Internship)",
-    "startDate": "2008-02-15",
-    "endDate": "2008-04-15",
-    "highlights": [
-      "Overhaul of the website of the Centre des Arts et de la Culture de Pointe-à-Pitre (cultural center of the city)"
-    ]
-  }],
-  "education": [{
-    "institution": "Telecom Lille",
-    "studyType": "Master Degree in Networks and Telecommunications",
-    "startDate": "2005-09-01",
-    "endDate": "2010-06-30"
-  }],
-  "skills": [{
-    "name": "HTML5"
-  },{
-    "name": "CSS3"
-  },{
-    "name": "JavaScript",
-    "keywords": [
-      "Vanilla",
-      "ES2015+",
-      "React (Native)",
-      "Redux",
-      "AngularJS",
-      "EmberJS",
-      "node.js"
-    ]
-  },{
-    "name": "PHP"
-  },{
-    "name": "Databases",
-    "keywords": [
-      "PostgreSQL",
-      "MySQL",
-      "MongoDB"
-    ]
-  },{
-    "name": "Tools",
-    "keywords": [
-      "Git",
-      "NPM",
-      "JSPM",
-      "Babel",
-      "Gulp",
-      "Grunt"
-    ]
-  }],
-  "languages": [{
-    "language": "French",
-    "fluency": "Native speaker"
-  },{
-    "language": "English",
-    "fluency": "Fluent (TOEIC: 970/990)"
-  }],
-  "interests": [{
-    "name": "Web Development",
-    "keywords": [
-      "http://www.codeheroics.com",
-      "Karakuri - Karaoke app",
-      "https://www.nope.wtf - HTML5 social game",
-      "Speaker @ ParisJS, TakeOff Conf"
-    ]
-  },{
-    "name": "Avid reader",
-    "keywords": [
-      "Comics (US, mangas, french)",
-      "Novels (fantasy, sci-fi…)"
-    ]
-  },{
-    "name": "Gamer",
-    "keywords": [
-      "Video games",
-      "Board games",
-      "Card games",
-      "Role-playing games"
-    ]
-  }]
+  "work": [
+    {
+      "company": "Startups d’État Pôle Emploi : Mobiville",
+      "position": "Principal Developer",
+      "website": "https://mobiville.pole-emploi.fr",
+      "startDate": "2021-05-01",
+      "endDate": "2022-02-28",
+      "summary": "Development of a website used to help job-seekrs relocate",
+      "highlights": [
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack, Jest, Storybook...)",
+        "Back-end (node.js / nginx / PostGreSQL)"
+      ]
+    },
+    {
+      "company": "Dashlane",
+      "position": "Expert developer front-end",
+      "website": "https://www.dashlane.com/fr",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-30",
+      "summary": "Full redevelopment of the web interface used by the in-browser extension of Dashlane’s password manager",
+      "highlights": [
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack,  Storybook, Cypress...)"
+      ]
+    },
+    {
+      "company": "Startups d’État Pôle Emploi : Zen",
+      "position": "Principal Developer",
+      "website": "https://pole-emploi.fr",
+      "startDate": "2018-04-01",
+      "endDate": "2019-11-01",
+      "summary": "Development of an alternative (and better!) way to declare your situation as a job-seeker for the French national work agency",
+      "highlights": [
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack, Jest, Storybook...)",
+        "Back-end (node.js / nginx / PostGreSQL)"
+      ]
+    },
+    {
+      "company": "Voyages-SNCF.com / Oui Technologies",
+      "position": "Lead Front-end JS developer",
+      "website": "https://oui.sncf",
+      "startDate": "2016-06-13",
+      "endDate": "2018-02-23",
+      "summary": "TGV trains internal Wifi portal development",
+      "highlights": [
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+      ]
+    },
+    {
+      "company": "Vente-Privée",
+      "position": "Front-end JS developer",
+      "website": "http://www.vente-privee.com",
+      "startDate": "2016-02-09",
+      "endDate": "2016-06-10",
+      "summary": "vente-privee.com main website overhaul",
+      "highlights": [
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+      ]
+    },
+    {
+      "company": "Botemo",
+      "position": "React Native Developer",
+      "startDate": "2016-01-04",
+      "endDate": "2016-01-15",
+      "summary": "Creation of an application prototype",
+      "highlights": [
+        "React Native"
+      ]
+    },
+    {
+      "company": "Agilience",
+      "position": "Front-end JS developer",
+      "website": "http://www.agilience.com",
+      "startDate": "2015-09-22",
+      "endDate": "2015-12-24",
+      "summary": "Work on Agilience.com and B2B products",
+      "highlights": [
+        "Development of a social analytics webapp",
+        "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
+      ]
+    },
+    {
+      "company": "Le Monde",
+      "position": "Full-stack JavaScript Developer",
+      "website": "http://www.lemonde.fr",
+      "startDate": "2014-06-16",
+      "endDate": "2015-07-10",
+      "summary": "AngularJS + node.js = MyJob.js",
+      "highlights": [
+        "Developed \"Le Huit\", a high quality CMS for journalists, part of a team of 10",
+        "Front-end, Back-end JS"
+      ]
+    },
+    {
+      "company": "e-TF1",
+      "position": "Lead Developer MyTF1 Web",
+      "website": "http://www.tf1.fr",
+      "startDate": "2013-07-01",
+      "endDate": "2014-05-16",
+      "highlights": [
+        "Technical lead of the MyTF1 Connect Project: Management of data for the companion app to live TV",
+        "Started the development of the WISDOM project, for ads management in replay TV"
+      ]
+    },
+    {
+      "company": "e-TF1",
+      "position": "PHP / node.js Web developer",
+      "website": "http://www.tf1.fr",
+      "startDate": "2012-01-23",
+      "endDate": "2013-06-30",
+      "highlights": [
+        "Work on TF1.fr (website of the first french television)",
+        "Work on the project \"Tweet-Replay\" and its successor, MyTF1 Connect"
+      ]
+    },
+    {
+      "company": "SFR",
+      "position": "PHP Web Developer",
+      "website": "http://www.sfr.fr",
+      "startDate": "2010-10-13",
+      "endDate": "2012-01-20",
+      "highlights": [
+        "Development of an system to archive and analyze detailed logs for an application which created millions of log lines per hour.",
+        "Development of the web interface to consult those logs (graphics...)",
+        "Integration of new features for SFR's phone lines analysis application (which used a company-specific PHP framework)"
+      ]
+    },
+    {
+      "company": "Alcatel-Lucent Bell Labs France",
+      "position": "PHP Web Developer (Internship)",
+      "website": "http://www.alcatel-lucent.com",
+      "startDate": "2009-12-01",
+      "endDate": "2012-06-30",
+      "highlights": [
+        "Development of a video-sharing website (like YouTube, but with different objectives specific to the company), developed with PHP/MySQL (Zend Framework)",
+        "Preparation of a virtual machine (VirtualBox) as main work environment for the developers of the project.",
+        "Participation to the fusion with another video-sharing website which was developed in another department of the company."
+      ]
+    },
+    {
+      "company": "Roger Salengro Hospital - Lille",
+      "position": "Technical Staff (Internship)",
+      "website": "http://www.sfr.fr",
+      "startDate": "2008-09-01",
+      "endDate": "2009-01-30",
+      "highlights": [
+        "Developed a system to manage standardized reports created by doctors to centralize their data and allow its printed output.",
+        "Technical support for the employees of the hospital"
+      ]
+    },
+    {
+      "company": "Centre des Arts et de la Culture de Pointe-à-Pitre",
+      "position": "PHP Web developer (Internship)",
+      "startDate": "2008-02-15",
+      "endDate": "2008-04-15",
+      "highlights": [
+        "Overhaul of the website of the Centre des Arts et de la Culture de Pointe-à-Pitre (cultural center of the city)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Telecom Lille",
+      "studyType": "Master Degree in Networks and Telecommunications",
+      "startDate": "2005-09-01",
+      "endDate": "2010-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Vanilla",
+        "ES2015+",
+        "React (Native)",
+        "Redux",
+        "AngularJS",
+        "EmberJS",
+        "node.js"
+      ]
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "NPM",
+        "JSPM",
+        "Babel",
+        "Gulp",
+        "Grunt"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (TOEIC: 970/990)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "http://www.codeheroics.com",
+        "Karakuri - Karaoke app",
+        "https://www.nope.wtf - HTML5 social game",
+        "Speaker @ ParisJS, TakeOff Conf"
+      ]
+    },
+    {
+      "name": "Avid reader",
+      "keywords": [
+        "Comics (US, mangas, french)",
+        "Novels (fantasy, sci-fi…)"
+      ]
+    },
+    {
+      "name": "Gamer",
+      "keywords": [
+        "Video games",
+        "Board games",
+        "Card games",
+        "Role-playing games"
+      ]
+    }
+  ]
 }
