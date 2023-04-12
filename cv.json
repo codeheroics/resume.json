@@ -3,7 +3,7 @@
     "name": "Hugo Agbonon",
     "label": "Développeur Web Full Stack (JS) Freelance",
     "company": "Code Heroics",
-    "picture": "https://codeheroics.com/avatar.jpg",
+    "image": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com",
     "summary": "Développeur web freelance, spécialisé JS, j'interviens en expertise full-stack sur vos projets, pourvu qu’ils soient funs.",
@@ -195,7 +195,7 @@
   ],
   "education": [
     {
-      "institution": "Télécom Lille",
+      "institution": "IMT Nord Europe",
       "area": "Réseaux et Télécommunications",
       "studyType": "Ingénieur",
       "startDate": "2005-09-01",

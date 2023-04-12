@@ -3,7 +3,7 @@
     "name": "Hugo Agbonon",
     "label": "Freelance Full Stack Web (JS) Developer",
     "company": "Code Heroics",
-    "picture": "https://codeheroics.com/avatar.jpg",
+    "image": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com",
     "summary": "I'm a freelance web developer specialized in JavaScript full-stack (both front-end and back-end) development.",
@@ -185,7 +185,7 @@
   ],
   "education": [
     {
-      "institution": "Telecom Lille",
+      "institution": "IMT Lille Douai",
       "studyType": "Master Degree in Networks and Telecommunications",
       "startDate": "2005-09-01",
       "endDate": "2010-06-30"
