@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Hugo Agbonon",
-    "label": "Développeur Web Full Stack (JS) Freelance",
+    "label": "Game Designer",
     "company": "Code Heroics",
     "picture": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com",
-    "summary": "Développeur web freelance, spécialisé JS, j'interviens en expertise full-stack sur vos projets, pourvu qu’ils soient funs.",
+    "summary": "Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers le game design. Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques techniques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes. J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
