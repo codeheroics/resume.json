@@ -211,9 +211,6 @@
       ]
     },
     {
-      "name": "PHP"
-    },
-    {
       "name": "Databases",
       "keywords": [
         "PostgreSQL",
@@ -245,19 +242,22 @@
   ],
   "interests": [
     {
-      "name": "Web Development",
+      "name": "Creativity",
       "keywords": [
-        "http://www.codeheroics.com",
-        "Karakuri - Karaoke app",
-        "https://www.nope.wtf - HTML5 social game",
-        "Speaker @ ParisJS, TakeOff Conf"
+        "Guitarist",
+        "Improv Actor (beginner)",
+        "Podcast host and editor",
+        "Blogger",
+        "Video game streamer",
+        "Short fictions writer"
       ]
     },
     {
-      "name": "Avid reader",
+      "name": "Pop culture fan",
       "keywords": [
         "Comics (US, mangas, french)",
-        "Novels (fantasy, sci-fi…)"
+        "Novels (fantasy, sci-fi…)",
+        "Movies and TV Series"
       ]
     },
     {
@@ -267,6 +267,16 @@
         "Board games",
         "Card games",
         "Role-playing games"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "http://www.codeheroics.com",
+        "Karakuri - Karaoke app",
+        "Mobile rhythm game",
+        "https://www.nope.wtf - HTML5 social game",
+        "Speaker @ ParisJS, TakeOff Conf"
       ]
     }
   ]
