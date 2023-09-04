@@ -6,17 +6,12 @@
     "picture": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@codeheroics.com",
     "website": "http://www.codeheroics.com/portfolio",
-    "summary": "<p>Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour Tizen, un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je me forme depuis peu à Unity.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.</p><p>N’hésitez pas à visiter <a href=\"https://codeheroics.com/portfolio/\">mon portfolio</a>.</p>",
+    "summary": "<p>Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour Tizen, un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je me forme depuis peu à Unity.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.</p><p>Ce CV est une liste exhaustive de la multitude d’expériences professionnelles que j’ai eu à ce jour, mais ne reflète plus les expériences futures que je recherche. Je vous invite donc également visiter <a href='https://codeheroics.com/portfolio/'>mon portfolio</a>.</p>",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "codeheroics",
-        "url": "http://twitter.com/codeheroics"
-      },
       {
         "network": "Github",
         "username": "codeheroics",
