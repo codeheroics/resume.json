@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Hugo Agbonon",
-    "label": "Game Designer",
+    "label": "Créateur de jeux",
     "company": "Code Heroics",
     "picture": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@codeheroics.com",
-    "website": "http://www.codeheroics.com",
-    "summary": "Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers le game design. Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques techniques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes. J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.",
+    "website": "http://www.codeheroics.com/portfolio",
+    "summary": "<p>Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour Tizen, un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je me forme depuis peu à Unity.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.</p><p>N’hésitez pas à visiter <a href=\"https://codeheroics.com/portfolio/\">mon portfolio</a>.</p>",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
@@ -194,8 +194,16 @@
     }
   ],
   "education": [
+  
     {
-      "institution": "Télécom Lille",
+      "institution": "Gobelins / Cnam-Enjmin",
+      "area": "Interactive Digital Experiences ",
+      "studyType": "Designer d'expérience interactive et ludique",
+      "startDate": "2023-10-09",
+      "endDate": "2024-12-31"
+    },
+    {
+      "institution": "Télécom Lille (IMT Nord-Europe)",
       "area": "Réseaux et Télécommunications",
       "studyType": "Ingénieur",
       "startDate": "2005-09-01",
@@ -207,6 +215,9 @@
     }
   ],
   "skills": [
+    {
+      "name": "Unity"
+    },
     {
       "name": "HTML5"
     },
@@ -262,7 +273,7 @@
         "Animateur et monteur de podcast",
         "Blogueur",
         "Streamer de jeux vidéo",
-        "Écrivain de courtes nouvelles"
+        "Écrivain de nouvelles"
       ]
     },
     {
