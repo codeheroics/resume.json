@@ -1,23 +1,16 @@
 {
   "basics": {
     "name": "Hugo Agbonon",
-    "label": "Freelance Full Stack Web (JS) Developer",
-    "company": "Code Heroics",
-    "picture": "https://codeheroics.com/avatar.jpg",
-    "email": "hugo@codeheroics.com",
+    "label": "Game & story creator",
+    "image": "https://codeheroics.com/avatar.jpg",
+    "email": "hugo@agbonon.fr",
     "website": "http://www.codeheroics.com",
-    "summary": "I'm a freelance web developer specialized in JavaScript full-stack (both front-end and back-end) development.",
+    "summary": "<p>Former expert web developer, I am in the midst of a major career change as I learn to create video games.</p> <p>My past career, spent working in technical environments, gives me the confidence that I’ll be able to evaluate the feasability and issues of projects during their design, and to be able to conceive, develop and test myself their prototypes.</p><p>I have made several small games, which you’ll find on ffenril.itch.io. I work with both Unity and Unreal Engine.</p> <p>I have written many blog posts over the years, and written several short stories.</p> <p>This CV is an exhaustive list of my many professional experiences, but it does not reflect the creative turn I’ve now given my career, which is why I invite you to check my portfolio at <a href='https://codeheroics.com/en'>codeheroics.com/en</a>!</p>",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "codeheroics",
-        "url": "http://github.com/hugo-codeheroics"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -26,7 +19,7 @@
       "website": "https://mobiville.pole-emploi.fr",
       "startDate": "2021-05-01",
       "endDate": "2022-02-28",
-      "summary": "Development of a website used to help job-seekrs relocate",
+      "summary": "Development of a website used to help job-seekers relocate",
       "highlights": [
         "Front-end JS (React, ES2015+, Redux, Babel, Webpack, Jest, Storybook...)",
         "Back-end (node.js / nginx / PostGreSQL)"
@@ -51,6 +44,7 @@
       "endDate": "2019-11-01",
       "summary": "Development of an alternative (and better!) way to declare your situation as a job-seeker for the French national work agency",
       "highlights": [
+        "Full, solo technical creation of the project, then maintenance with a small team",
         "Front-end JS (React, ES2015+, Redux, Babel, Webpack, Jest, Storybook...)",
         "Back-end (node.js / nginx / PostGreSQL)"
       ]
@@ -63,6 +57,8 @@
       "endDate": "2018-02-23",
       "summary": "TGV trains internal Wifi portal development",
       "highlights": [
+        "Lead in the creation of the front-end of the TGVConnect project",
+        "Lead of the full rebranding of the project as it became wifi.sncf",
         "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
       ]
     },
@@ -74,6 +70,7 @@
       "endDate": "2016-06-10",
       "summary": "vente-privee.com main website overhaul",
       "highlights": [
+        "Development of a brand new vente-privee.com, which went live in the UK",
         "Front-end JS (React, ES2015+, Redux, Babel, Webpack)"
       ]
     },
@@ -150,37 +147,24 @@
       "position": "PHP Web Developer (Internship)",
       "website": "http://www.alcatel-lucent.com",
       "startDate": "2009-12-01",
-      "endDate": "2012-06-30",
+      "endDate": "2010-06-30",
       "highlights": [
         "Development of a video-sharing website (like YouTube, but with different objectives specific to the company), developed with PHP/MySQL (Zend Framework)",
         "Preparation of a virtual machine (VirtualBox) as main work environment for the developers of the project.",
         "Participation to the fusion with another video-sharing website which was developed in another department of the company."
       ]
-    },
-    {
-      "company": "Roger Salengro Hospital - Lille",
-      "position": "Technical Staff (Internship)",
-      "website": "http://www.sfr.fr",
-      "startDate": "2008-09-01",
-      "endDate": "2009-01-30",
-      "highlights": [
-        "Developed a system to manage standardized reports created by doctors to centralize their data and allow its printed output.",
-        "Technical support for the employees of the hospital"
-      ]
-    },
-    {
-      "company": "Centre des Arts et de la Culture de Pointe-à-Pitre",
-      "position": "PHP Web developer (Internship)",
-      "startDate": "2008-02-15",
-      "endDate": "2008-04-15",
-      "highlights": [
-        "Overhaul of the website of the Centre des Arts et de la Culture de Pointe-à-Pitre (cultural center of the city)"
-      ]
     }
   ],
   "education": [
     {
-      "institution": "Telecom Lille",
+      "institution": "Gobelins / Cnam-Enjmin",
+      "area": "Interactive Digital Experiences ",
+      "studyType": "Designer of interactive and fun experiences",
+      "startDate": "2023-10-09",
+      "endDate": "2024-12-31"
+    },
+    {
+      "institution": "Telecom Lille (IMT Nord-Europe)",
       "studyType": "Master Degree in Networks and Telecommunications",
       "startDate": "2005-09-01",
       "endDate": "2010-06-30"
@@ -188,40 +172,53 @@
   ],
   "skills": [
     {
-      "name": "HTML5"
-    },
-    {
-      "name": "CSS3"
-    },
-    {
-      "name": "JavaScript",
+      "name": "Game & stories creator",
       "keywords": [
-        "Vanilla",
-        "ES2015+",
+        "www.codeheroics.com/en",
+        "ffenril.itch.io",
+        "Unity",
+        "Unreal Engine (blueprints)"
+      ]
+    },
+    {
+      "name": "Creativity",
+      "keywords": [
+        "Guitarist",
+        "Improv Actor (beginner)",
+        "Podcast host and editor",
+        "Blogger",
+        "Video game streamer",
+        "Short fiction writer"
+      ]
+    },
+    {
+      "name": "Culture enthusiast",
+      "keywords": [
+        "Comics (US, mangas, french)",
+        "Novels (fantasy, sci-fi…)",
+        "Movies and TV Series",
+        "Video Game Music"
+      ]
+    },
+    {
+      "name": "Gamer",
+      "keywords": [
+        "Video games",
+        "Board games",
+        "Card games",
+        "Role-playing games"
+      ]
+    },
+    {
+      "name": "Web development",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Vanilla JS",
         "React (Native)",
-        "Redux",
-        "AngularJS",
-        "EmberJS",
-        "node.js"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-      ]
-    },
-    {
-      "name": "Tools",
-      "keywords": [
-        "Git",
-        "NPM",
-        "JSPM",
-        "Babel",
-        "Gulp",
-        "Grunt"
+        "node.js",
+        "PostgreSQL / MySQL",
+        "Git"
       ]
     }
   ],
@@ -235,44 +232,5 @@
       "fluency": "Fluent (TOEIC: 970/990)"
     }
   ],
-  "interests": [
-    {
-      "name": "Creativity",
-      "keywords": [
-        "Guitarist",
-        "Improv Actor (beginner)",
-        "Podcast host and editor",
-        "Blogger",
-        "Video game streamer",
-        "Short fictions writer"
-      ]
-    },
-    {
-      "name": "Pop culture fan",
-      "keywords": [
-        "Comics (US, mangas, french)",
-        "Novels (fantasy, sci-fi…)",
-        "Movies and TV Series"
-      ]
-    },
-    {
-      "name": "Gamer",
-      "keywords": [
-        "Video games",
-        "Board games",
-        "Card games",
-        "Role-playing games"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
-        "http://www.codeheroics.com",
-        "Karakuri - Karaoke app",
-        "Mobile rhythm game",
-        "https://www.nope.wtf - HTML5 social game",
-        "Speaker @ ParisJS, TakeOff Conf"
-      ]
-    }
-  ]
+  "interests": []
 }

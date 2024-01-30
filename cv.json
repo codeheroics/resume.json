@@ -1,23 +1,16 @@
 {
   "basics": {
     "name": "Hugo Agbonon",
-    "label": "Créateur de jeux",
-    "company": "Code Heroics",
-    "picture": "https://codeheroics.com/avatar.jpg",
-    "email": "hugo@codeheroics.com",
-    "website": "http://www.codeheroics.com/portfolio",
-    "summary": "<p>Ancien développeur expert en web, je cherche aujourd’hui, suite à un bilan de compétences, à me reconvertir vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai par le passé réalisé des petits jeux : Un jeu de rythme pour Tizen, un OS mobile malheureusement mort-né, et un jeu social, « Nope », une version gamifiée de la fonctionnalité « pokes » de Facebook. Je me forme depuis peu à Unity.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Je cherche aujourd’hui à acquérir les compétences et modes de pensées nécessaires pour pouvoir tacler la création d’un jeu vidéo.</p><p>Ce CV est une liste exhaustive de la multitude d’expériences professionnelles que j’ai eu à ce jour, mais ne reflète plus les expériences futures que je recherche. Je vous invite donc également visiter <a href='https://codeheroics.com/portfolio/'>mon portfolio</a>.</p>",
+    "label": "Créateur de jeux et d’histoires",
+    "image": "https://codeheroics.com/avatar.jpg",
+    "email": "hugo@agbonon.fr",
+    "website": "http://www.codeheroics.com",
+    "summary": "<p>Ancien développeur expert en web, je suis aujourd’hui en reconversion vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai réalisé plusieurs petits jeux que vous trouverez à l’adresse ffenril.itch.io. Je travaille avec Unity et Unreal Engine.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Ce CV est une liste exhaustive de la multitude d’expériences professionnelles que j’ai eu à ce jour, mais ne reflète plus les expériences futures que je recherche. Je vous invite donc également visiter mon portfolio à l’adresse <a href='https://codeheroics.com'>codeheroics.com!</a>.</p>",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "codeheroics",
-        "url": "http://github.com/codeheroics"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -43,7 +36,7 @@
       "summary": "Redéveloppement complet de l’interface web utilisée par le gestionnaire de mot de passe de l’application Dashlane",
       "highlights": [
         "Prise en charge complète d'un projet de réécriture complète du code de tous les éléments de l'extension Dashlane s'affichant dans le navigateur (autocomplete, notifications...)",
-        "Départ du projet après déploeiment de la réécriture et instructions complètes de maintenances documentées",
+        "Départ du projet après déploiement de la réécriture et instructions complètes de maintenances documentées",
         "Front-end JS (React, ES2015+, Redux, Babel, Webpack,  Storybook, Cypress...)"
       ]
     },
@@ -160,111 +153,45 @@
       "position": "Développeur Web PHP (Stagiaire)",
       "website": "http://www.alcatel-lucent.com",
       "startDate": "2009-12-01",
-      "endDate": "2012-06-30",
+      "endDate": "2010-06-30",
       "highlights": [
         "Développement d'une plate-forme de partage vidéo (semblable à YouTube mais au niveau d’une entreprise, développée en PHP/MySQL)",
         "Mise en place d’une machine virtuelle (VirtualBox) comme environnement de développement principal.",
         "Gestion de la fusion avec un autre service de partage vidéo."
       ]
-    },
-    {
-      "company": "Hôpital Roger Salengro - CHRU de Lille",
-      "position": "Assistant ingénieur (stagiaire)",
-      "website": "http://www.sfr.fr",
-      "startDate": "2008-09-01",
-      "endDate": "2009-01-30",
-      "highlights": [
-        "Travail en tant qu’assistant ingénieur affecté au service de neuroradiologie.",
-        "Refonte du système de gestion de compte-rendus standardisés de l’hôpital (PHP/MySQL + Google Web Toolkit) et assistance aux utilisateurs"
-      ]
-    },
-    {
-      "company": "Centre des Arts et de la Culture de Pointe-à-Pitre",
-      "position": "Développeur Web PHP (stagiaire)",
-      "startDate": "2008-02-15",
-      "endDate": "2008-04-15",
-      "highlights": [
-        "Travail sur le site web du Centre des Arts et de la Culture de Pointe-à-Pitre (PHP/MySQL)"
-      ]
     }
   ],
   "education": [
-  
     {
       "institution": "Gobelins / Cnam-Enjmin",
       "area": "Interactive Digital Experiences ",
       "studyType": "Designer d'expérience interactive et ludique",
       "startDate": "2023-10-09",
-      "endDate": "2024-12-31"
+      "endDate": "2024"
     },
     {
       "institution": "Télécom Lille (IMT Nord-Europe)",
       "area": "Réseaux et Télécommunications",
       "studyType": "Ingénieur",
       "startDate": "2005-09-01",
-      "endDate": "2010-06-30",
-      "courses": [
-        "ILR - Ingénierie des Logiciels Réseaux",
-        "IIM - Ingénierie et Informatique pour le Multimédia"
-      ]
+      "endDate": "2010-06-30"
     }
   ],
   "skills": [
     {
-      "name": "Unity"
-    },
-    {
-      "name": "HTML5"
-    },
-    {
-      "name": "CSS3"
-    },
-    {
-      "name": "JavaScript",
+      "name": "Créateur de jeu et d’histoires",
       "keywords": [
-        "Vanilla",
-        "ES2015+",
-        "React (Native)",
-        "Redux",
-        "AngularJS",
-        "EmberJS",
-        "node.js"
+        "www.codeheroics.com",
+        "ffenril.itch.io",
+        "Unity",
+        "Unreal Engine (blueprints)"
       ]
     },
-    {
-      "name": "Bases de données",
-      "keywords": [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-      ]
-    },
-    {
-      "name": "Outils",
-      "keywords": [
-        "Git",
-        "NPM",
-        "Yarn",
-        "Babel"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Langue maternelle"
-    },
-    {
-      "language": "English",
-      "fluency": "Courant (TOEIC: 970/990)"
-    }
-  ],
-  "interests": [
     {
       "name": "Créatif",
       "keywords": [
         "Guitariste",
-        "Comédien débutant (improvisation théâtrale)",
+        "Comédien (improvisation théâtrale)",
         "Animateur et monteur de podcast",
         "Blogueur",
         "Streamer de jeux vidéo",
@@ -276,7 +203,8 @@
       "keywords": [
         "BD (mangas, comics, franco-belge)",
         "Romans (fantasy, sci-fi…)",
-        "Films et séries"
+        "Films et séries",
+        "Musique de jeu vidéo"
       ]
     },
     {
@@ -288,14 +216,26 @@
       ]
     },
     {
-      "name": "Développement web",
+      "name": "Développeur web",
       "keywords": [
-        "http://www.codeheroics.com",
-        "Jeu de rythme pour mobile",
-        "https://www.nope.wtf - HTML5 social game",
-        "Karakuri - App de Karaoke",
-        "Speaker @ ParisJS, TakeOff Conf"
+        "HTML5",
+        "CSS3",
+        "Vanilla JS",
+        "React (Native)",
+        "node.js",
+        "PostgreSQL / MySQL",
+        "Git"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "English",
+      "fluency": "Courant (TOEIC: 970/990)"
     }
   ]
 }
