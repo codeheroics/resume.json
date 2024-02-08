@@ -5,7 +5,7 @@
     "image": "https://codeheroics.com/avatar.jpg",
     "email": "hugo@agbonon.fr",
     "website": "http://www.codeheroics.com",
-    "summary": "<p>Ancien développeur expert en web, je suis aujourd’hui en reconversion vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai réalisé plusieurs petits jeux que vous trouverez à l’adresse ffenril.itch.io. Je travaille avec Unity et Unreal Engine.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Ce CV est une liste exhaustive de la multitude d’expériences professionnelles que j’ai eu à ce jour, mais ne reflète plus les expériences futures que je recherche. Je vous invite donc également visiter mon portfolio à l’adresse <a href='https://codeheroics.com'>codeheroics.com!</a>.</p>",
+    "summary": "<p>Ancien développeur expert en web, je suis aujourd’hui en reconversion vers la création de jeux vidéo.</p> <p>Mon expérience passée à travailler dans des environnements techniques me donne la confiance d’être en mesure d’appréhender les problématiques des projets lors de leur conception, et à être capable de développer et tester moi-même des prototypes.</p> <p>J’ai réalisé plusieurs jeux que vous trouverez à l’adresse ffenril.itch.io. Je travaille avec Unity et Unreal Engine.</p> <p>J’ai également écrit de nombreux articles de blogs au fur à mesure des années, et écrit plusieurs nouvelles.</p> <p>Ce CV est une liste exhaustive de la multitude d’expériences professionnelles que j’ai eu à ce jour, mais ne reflète plus les expériences futures que je recherche. Je vous invite donc également visiter mon portfolio à l’adresse <a href='https://codeheroics.com'>codeheroics.com!</a>.</p>",
     "location": {
       "address": "Lille",
       "countryCode": "FR"
@@ -14,7 +14,14 @@
   },
   "work": [
     {
-      "company": "Startups d’État Pôle Emploi : Mobiville",
+      "name": "Code Heroics",
+      "position": "Freelance Web Developer",
+      "website": "https://mobiville.pole-emploi.fr",
+      "startDate": "2022-02-28",
+      "summary": "Web developer activity, paused since I began training as a game designer"
+    },
+    {
+      "name": "Startups d’État Pôle Emploi : Mobiville",
       "position": "Principal Developer",
       "website": "https://mobiville.pole-emploi.fr",
       "startDate": "2021-05-01",
@@ -28,7 +35,7 @@
       ]
     },
     {
-      "company": "Dashlane",
+      "name": "Dashlane",
       "position": "Expert developer front-end",
       "website": "https://www.dashlane.com/fr",
       "startDate": "2020-01-01",
@@ -41,7 +48,7 @@
       ]
     },
     {
-      "company": "Startups d’État Pôle Emploi : Zen",
+      "name": "Startups d’État Pôle Emploi : Zen",
       "position": "Principal Developer",
       "website": "https://pole-emploi.fr/",
       "startDate": "2018-04-01",
@@ -55,7 +62,7 @@
       ]
     },
     {
-      "company": "Voyages-SNCF.com / Oui Technologies",
+      "name": "Voyages-SNCF.com / Oui Technologies",
       "position": "Lead Front-end JS developer",
       "website": "https://oui.sncf",
       "startDate": "2016-06-13",
@@ -69,7 +76,7 @@
       ]
     },
     {
-      "company": "Vente-Privée",
+      "name": "Vente-Privée",
       "position": "Front-end JS developer",
       "website": "http://www.vente-privee.com",
       "startDate": "2016-02-09",
@@ -81,7 +88,7 @@
       ]
     },
     {
-      "company": "Botemo",
+      "name": "Botemo",
       "position": "React Native Developer",
       "startDate": "2016-01-04",
       "endDate": "2016-01-15",
@@ -91,7 +98,7 @@
       ]
     },
     {
-      "company": "Agilience",
+      "name": "Agilience",
       "position": "Front-end JS developer",
       "website": "http://www.agilience.com",
       "startDate": "2015-09-22",
@@ -103,7 +110,7 @@
       ]
     },
     {
-      "company": "Le Monde",
+      "name": "Le Monde",
       "position": "Full-stack JavaScript Developer",
       "website": "http://www.lemonde.fr",
       "startDate": "2014-06-16",
@@ -115,7 +122,7 @@
       ]
     },
     {
-      "company": "e-TF1",
+      "name": "e-TF1",
       "position": "Lead Developer MyTF1 Web",
       "website": "http://www.tf1.fr",
       "startDate": "2013-07-01",
@@ -126,7 +133,7 @@
       ]
     },
     {
-      "company": "e-TF1",
+      "name": "e-TF1",
       "position": "Développeur Web PHP / node.js",
       "website": "http://www.tf1.fr",
       "startDate": "2012-01-23",
@@ -137,7 +144,7 @@
       ]
     },
     {
-      "company": "SFR",
+      "name": "SFR",
       "position": "Développeur Web PHP",
       "website": "http://www.sfr.fr",
       "startDate": "2010-10-13",
@@ -149,7 +156,7 @@
       ]
     },
     {
-      "company": "Alcatel-Lucent Bell Labs France",
+      "name": "Alcatel-Lucent Bell Labs France",
       "position": "Développeur Web PHP (Stagiaire)",
       "website": "http://www.alcatel-lucent.com",
       "startDate": "2009-12-01",
